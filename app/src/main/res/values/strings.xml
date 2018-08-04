@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="botao_buscar">Buscar</string>
+    <string name="sem_internet">Sem conexão com a internet</string>
+    <string name="sem_livro">Livro não encontrado</string>
+    <string name="digite_titulo_livro">Digite título do livro</string>
+    <string name="digite_titulo">Digite o título</string>
+</resources>
